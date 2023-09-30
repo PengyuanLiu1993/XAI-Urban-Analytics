@@ -1,1 +1,1 @@
-This repo is for our paper "Explainable Spatially-Explicit GeoAI in Urban Analytics" published in Environment and Planning B: Urban Analytics and City Science
+This repo is for our paper "Explainable Spatially-Explicit GeoAI in Urban Analytics" published in [Environment and Planning B: Urban Analytics and City Science](https://journals.sagepub.com/doi/10.1177/23998083231204689)
