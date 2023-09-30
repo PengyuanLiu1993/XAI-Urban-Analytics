@@ -1,6 +1,6 @@
 This repo is for our paper "Explainable Spatially-Explicit GeoAI in Urban Analytics" published in [Environment and Planning B: Urban Analytics and City Science](https://journals.sagepub.com/doi/10.1177/23998083231204689)
 
-<img src="https://github.com/PengyuanLiu1993/XAI-Urban-Analytics/blob/main/Images/Figure2_enlarge_text%20(1).png">
+<img src="https://github.com/PengyuanLiu1993/XAI-Urban-Analytics/blob/main/Images/Figure2_enlarge_text%20(2).png">
 
 # Prerequisite Pacakages:
 
